@@ -41,7 +41,7 @@
      # <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,next,ts" height="35"/>
 
   * ***Backend***
-     # <img src="https://skillicons.dev/icons?i=php,nodejs,js,express" height="35"/>
+     # <img src="https://skillicons.dev/icons?i=php,nodejs,express" height="35"/>
 
   * ***Database***
      # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,aws,postgresql" height="35"/>
