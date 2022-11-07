@@ -1,8 +1,8 @@
   ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) 
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" height="270px" width=50% alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-</div>
+</div> -->
 
 <br>
 <br>
