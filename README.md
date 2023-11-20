@@ -8,10 +8,7 @@
 <!-- Profile Visitors -->
 <p align="center">
   <img align="center" alt="Profile Visitors" src="https://profile-counter.glitch.me/shlokbharadwaj/count.svg" />
-  <p align="center">Welcome, fellow carbon-based lifeforms! <br> 
-  Behold the tally of curious stalkers who've wandered into my repository lair. Resistance is futile!</p>
-</p>
-
+  
 ---
 
 <!-- GitHub Streak -->
